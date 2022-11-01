@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dropdwon/static/css/main.ef82af21.css",
+    "main.js": "/dropdwon/static/js/main.29c90f3b.js",
+    "static/js/787.6804c560.chunk.js": "/dropdwon/static/js/787.6804c560.chunk.js",
+    "index.html": "/dropdwon/index.html",
+    "main.ef82af21.css.map": "/dropdwon/static/css/main.ef82af21.css.map",
+    "main.29c90f3b.js.map": "/dropdwon/static/js/main.29c90f3b.js.map",
+    "787.6804c560.chunk.js.map": "/dropdwon/static/js/787.6804c560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef82af21.css",
+    "static/js/main.29c90f3b.js"
+  ]
+}
